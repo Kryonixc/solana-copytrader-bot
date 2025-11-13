@@ -9,4 +9,6 @@ A Telegram-driven copy-trading bot for Solana ecosystem assets, supporting:
 - Trade logging
 
 This is a research / educational implementation.
-# solana-copytrader-bot
+
+## Development Status
+Project init. More features coming soon.
